@@ -1,7 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,30&height=260&section=header&text=Vinay%20Chauhan&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=70&descSize=22" />
-</p>
+<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/035f33d4-6afc-4f1a-bebf-7f6ac3b20d12" />
+
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
