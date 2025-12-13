@@ -76,7 +76,8 @@ Here are some projects that reflect my learning journey and interests:
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [github.com/VinayChauhan-06](https://github.com/VinayChauhan-06)
+- GitHub: [github.com/VinayChauhan-06](https://github.com/VinayChauhan-06)
+- Email: vinaychauhan1352002@gmail.com
 
 ---
 
