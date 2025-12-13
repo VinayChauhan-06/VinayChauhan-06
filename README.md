@@ -1,84 +1,75 @@
-<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/cb738dc2-5cf5-4501-a292-063624eea5cf" />
+<!-- ===================== ANIMATED HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,30&height=260&section=header&text=Vinay%20Chauhan&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=70&descSize=22" />
+</p>
 
-# Hi there, I'm Vinay Chauhan 👋
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vinay+Chauhan;Aspiring+Software+Engineer;Building+Projects+%7C+Learning+Every+Day;Focused+on+Problem+Solving+%26+Development" />
+</p>
 
-### 🚀 Aspiring Software Engineer | Lifelong Learner | Builder
-
-I'm an aspiring Software Engineer who believes that the best way to learn programming is by **building projects and sharing knowledge**.  
-I enjoy exploring how software works behind the scenes and improving my problem-solving skills through hands-on practice.
-
-Currently focused on strengthening my foundations in **development, data structures, and real-world applications**.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Aspiring Software Engineer
-- 💻 Interested in Web Development & Backend Systems
-- 🧠 Learning by building projects and solving problems
-- 🌱 Constantly improving my coding and logical thinking
-- 🤝 Open to collaboration and learning from the community
+- 🎓 Aspiring Software Engineer  
+- 💻 Passionate about building real-world projects  
+- 🧠 Strong interest in backend & full-stack development  
+- 🌱 Learning continuously through practice & projects  
+- 🤝 Open to collaboration and internships  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Animated Icons)
 
-### Languages
-![C](https://skillicons.dev/icons?i=c)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-### Web & Frameworks
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Databases & Tools
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayChauhan-06&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayChauhan-06&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VinayChauhan-06&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinayChauhan-06&theme=tokyonight&hide_border=true" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinayChauhan-06&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayChauhan-06&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some projects that reflect my learning journey and interests:
-- 🔹 Web applications built using HTML, CSS, JavaScript
-- 🔹 Backend projects with Node.js and databases
-- 🔹 Problem-solving and algorithm practice repositories
+- 🔹 Web development projects using HTML, CSS & JavaScript  
+- 🔹 Backend APIs with Node.js & Express  
+- 🔹 Practice repositories for DSA & logic building  
 
-(📌 Pin your best repositories from GitHub profile)
+👉 *(Pin your best repositories from your profile)*
 
 ---
 
 ## 🎯 Goals
 
-- Build strong fundamentals in software engineering
-- Create impactful real-world projects
-- Contribute to open-source in the future
-- Secure an internship / entry-level software role
+- Build strong software engineering fundamentals  
+- Master backend & full-stack development  
+- Work on impactful real-world projects  
+- Secure an internship / entry-level role  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-- GitHub: [github.com/VinayChauhan-06](https://github.com/VinayChauhan-06)
-- Email: vinaychauhan1352002@gmail.com
+- 📧 Email: **vc22cs57@thdcihet.ac.in**
+- 💼 GitHub: [github.com/VinayChauhan-06](https://github.com/VinayChauhan-06)
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t stay consistent.”*
+⭐ *“Consistency compounds faster than motivation.”*
