@@ -51,8 +51,6 @@
 - 🔹 Backend APIs with Node.js & Express  
 - 🔹 Practice repositories for DSA & logic building  
 
-👉 *(Pin your best repositories from your profile)*
-
 ---
 
 ## 🎯 Goals
