@@ -35,9 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VinayChauhan-06&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=VinayChauhan-06&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayChauhan-06&theme=react-dark&hide_border=true" />
